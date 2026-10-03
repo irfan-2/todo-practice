@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "irfan",
+    "todos": [
+      {
+        "id": "1",
+        "task": "updated todo"
+      },
+      {
+        "id": "2",
+        "task": "updated todo"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "waheed uddin"
+  }
+]
